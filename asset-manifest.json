@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/josue-project/static/css/main.a1142ad9.css",
+    "main.js": "/josue-project/static/js/main.343c8997.js",
+    "static/js/787.d6ebc525.chunk.js": "/josue-project/static/js/787.d6ebc525.chunk.js",
+    "static/media/Profile.png": "/josue-project/static/media/Profile.2082037b29ef561f7545.png",
+    "static/media/JosueGarcia-Resume.pdf": "/josue-project/static/media/JosueGarcia-Resume.8b93edccfa45a0d0e506.pdf",
+    "static/media/room-preview.jpg": "/josue-project/static/media/room-preview.f65664b541a9d2d9d2df.jpg",
+    "static/media/insure-homepage.jpg": "/josue-project/static/media/insure-homepage.d4404d608990e5defffe.jpg",
+    "static/media/snap-homepage.jpg": "/josue-project/static/media/snap-homepage.3a4b1805ea86bf76e020.jpg",
+    "static/media/tip-calculator.jpg": "/josue-project/static/media/tip-calculator.184b0743baf6eff07dc2.jpg",
+    "static/media/icons8-react.svg": "/josue-project/static/media/icons8-react.b37b99f776e34b9c23e188b60721f037.svg",
+    "static/media/icons8-github-skill.svg": "/josue-project/static/media/icons8-github-skill.2313f6066f27488414053abdb5325607.svg",
+    "static/media/icons8-github.svg": "/josue-project/static/media/icons8-github.b42bf8a812b472a8f3d4805c5e5d233a.svg",
+    "static/media/icons8-git.svg": "/josue-project/static/media/icons8-git.f9bc1ab78b517191a67771d4e27d6cbf.svg",
+    "static/media/icons8-html-5.svg": "/josue-project/static/media/icons8-html-5.904b942fe402755c328849f000751100.svg",
+    "index.html": "/josue-project/index.html",
+    "static/media/icons8-bootstrap.svg": "/josue-project/static/media/icons8-bootstrap.3c0d86717051c9c9154e71b71d5eb65f.svg",
+    "static/media/icons8-instagram.svg": "/josue-project/static/media/icons8-instagram.509c940bef9c1dc6dbe00be702f69237.svg",
+    "static/media/icons8-javascript-logo.svg": "/josue-project/static/media/icons8-javascript-logo.c44ca070b55344b816e4855973b3aba8.svg",
+    "static/media/icons8-linkedin.svg": "/josue-project/static/media/icons8-linkedin.5db2c072408bfaee618349c3b41fa1e6.svg",
+    "static/media/icons8-css3.svg": "/josue-project/static/media/icons8-css3.e0460fd535e009d526908ceafbb6fb63.svg",
+    "static/media/icons8-facebook.svg": "/josue-project/static/media/icons8-facebook.e01a82a3159c7cea8fdc4d3e7d7e9f24.svg",
+    "static/media/random.svg": "/josue-project/static/media/random.f4836e96b638f1bf85a1e79e8942e43d.svg",
+    "static/media/icon-close.svg": "/josue-project/static/media/icon-close.3e88bd6e1dd859233d65f8222e8ccb74.svg",
+    "static/media/icon-hamburger.svg": "/josue-project/static/media/icon-hamburger.f712939194a27a56f01fc841125b22d7.svg",
+    "main.a1142ad9.css.map": "/josue-project/static/css/main.a1142ad9.css.map",
+    "main.343c8997.js.map": "/josue-project/static/js/main.343c8997.js.map",
+    "787.d6ebc525.chunk.js.map": "/josue-project/static/js/787.d6ebc525.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1142ad9.css",
+    "static/js/main.343c8997.js"
+  ]
+}
