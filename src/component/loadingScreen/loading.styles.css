@@ -1,0 +1,16 @@
+path.loading-path {
+  stroke-width: 4px;
+  stroke-linecap: square;
+  fill: transparent;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.loading-holder {
+  max-width: 25rem;
+  max-height: 12rem;
+}

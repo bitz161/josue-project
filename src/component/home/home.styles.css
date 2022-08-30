@@ -1,0 +1,123 @@
+h1 {
+  color: rgb(31, 9, 48);
+  font-family: "Qwitcher Grypen", cursive;
+  font-size: 130px;
+}
+
+.home-container {
+  width: 100%;
+  height: 90vh;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+}
+
+.profile-img {
+  height: 80vh;
+}
+
+.home-container > div {
+  width: 40%;
+}
+
+.intro-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro-container > * {
+  margin: 1rem 0;
+}
+
+.intro-container > div {
+  font-size: 30px;
+}
+
+.home-container > div:nth-of-type(1) {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.arrowdown {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  height: 10vh;
+}
+
+.arrowdown img {
+  width: auto;
+  height: 90%;
+}
+
+/* Desktop */
+@media only screen and (max-width: 1366px) {
+  h1 {
+    font-size: 100px;
+  }
+  .profile-img {
+    height: 70vh;
+  }
+  .home-container {
+    height: 90vh;
+  }
+}
+@media only screen and (max-width: 1280px) {
+  h1 {
+    font-size: 80px;
+  }
+  .intro-container > div {
+    font-size: 25px;
+  }
+  .arrowdown img {
+    height: 70%;
+  }
+}
+/* Tablet */
+@media only screen and (max-width: 1024px) {
+  h1 {
+    font-size: 70px;
+  }
+  .intro-container > div {
+    font-size: 20px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 60px;
+  }
+  .intro-container > div {
+    font-size: 15px;
+  }
+}
+
+/* Mobile */
+@media only screen and (max-width: 414px) {
+  .home-container {
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+  }
+  .home-container > div {
+    width: 100%;
+  }
+  .profile-img {
+    width: 90%;
+    height: auto;
+  }
+  .home-container > div:nth-of-type(1) {
+    justify-content: center;
+  }
+  .arrowdown {
+    align-items: flex-end;
+    /* margin: 10vh 0; */
+  }
+  .arrowdown img {
+    width: auto;
+    height: 2rem;
+  }
+}

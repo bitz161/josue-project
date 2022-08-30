@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "project_name": "Room Homepage",
+    "live_link": "https://bitz161.github.io/room-homepage-master/",
+    "code_link": "https://github.com/bitz161/room-homepage-master/tree/master"
+  },
+  {
+    "id": 2,
+    "project_name": "Insure Landing Page",
+    "live_link": "https://bitz161.github.io/insure-landing-page-master/",
+    "code_link": "https://github.com/bitz161/insure-landing-page-master"
+  },
+  {
+    "id": 3,
+    "project_name": "Tip Calculator",
+    "live_link": "https://bitz161.github.io/tip-calculator-app-main/",
+    "code_link": "https://github.com/bitz161/tip-calculator-app-main"
+  },
+  {
+    "id": 4,
+    "project_name": "Snap Landing Page",
+    "live_link": "https://bitz161.github.io/intro-section-with-dropdown-navigation-main/",
+    "code_link": "https://github.com/bitz161/intro-section-with-dropdown-navigation-main"
+  }
+]

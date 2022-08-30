@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "employer": "Stefanini Philippines",
+    "positionName": "Information Technology Specialist",
+    "employerAddress": "Pasay City, Philippines",
+    "dateOfEmployment": "November 2021 to July 2022",
+    "duties": [
+      "Support Windows and MAC Desktop and Laptop Computers",
+      "General access and connectivity issues",
+      "Desktop Application issues",
+      "Basic Administration of user’s accounts and groups",
+      "Take ownership of trouble tickets, working and tracking issues to resolution",
+      "Record detailed information into Servicenow ticketing system",
+      "Ensures Incidents and Service Requests are Properly escalated and assigned to appropriate support groups if necessary"
+    ]
+  },
+  {
+    "id": 2,
+    "employer": "Dnata Travel, Incorporation",
+    "positionName": "Information Technology Specialist",
+    "employerAddress": "Clark Freeport Zone, Clarkfield, Pampanga",
+    "dateOfEmployment": "November 2019 to July 2021",
+    "duties": [
+      "Support Windows and MAC Desktop and Laptop Computers",
+      "General access and connectivity issues",
+      "Desktop Application issues",
+      "Basic Administration of user’s accounts and groups",
+      "Take ownership of trouble tickets, working and tracking issues to resolution",
+      "Back upping server storages",
+      "Record detailed information into Servicenow ticketing system",
+      "Ensures Incidents and Service Requests are Properly escalated and assigned to appropriate support groups if necessary"
+    ]
+  },
+  {
+    "id": 3,
+    "employer": "Clark Airport Support Services, Corp",
+    "positionName": "Information Technology Officer",
+    "employerAddress": "Clark Freeport Zone, Clarkfield, Pampanga",
+    "dateOfEmployment": "May 2018 to November 2019",
+    "duties": [
+      "Support Windows and Laptop",
+      "Hardware Maintenance such as Computer, Laptop, Network Devices, Server, CCTV, PABX and Printer",
+      "Desktop Application Issues",
+      "Basic Administration of user’s Email using Gsuite"
+    ]
+  },
+  {
+    "id": 4,
+    "employer": "Servicio Filipino, Inc",
+    "positionName": "Information Technology Staff",
+    "employerAddress": "Dau, Mabalacat City, Pampanga, Philippines",
+    "dateOfEmployment": "February 2018 to May 2018",
+    "duties": [
+      "Support Windows and Laptop",
+      "Hardware Maintenance such as Computer, Laptop, Network Devices, Server, CCTV, PABX and Printer",
+      "Desktop Application Issues",
+      "Basic Administration of user’s Email using Gsuite"
+    ]
+  }
+]

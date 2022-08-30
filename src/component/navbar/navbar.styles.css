@@ -1,0 +1,26 @@
+.navbar-container {
+  color: white;
+  position: absolute;
+  left: 0;
+  top: 15px;
+  width: 100%;
+  color: black;
+  display: flex;
+  font-weight: 400;
+  font-size: 17px;
+  height: 60px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.navbar-container > div > * {
+  text-decoration: none;
+  text-transform: none;
+  color: black;
+}
+
+@media only screen and (max-width: 414px) {
+  .navbar-container {
+    display: none;
+  }
+}
