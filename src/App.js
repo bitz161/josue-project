@@ -24,6 +24,7 @@ const App = () => {
           <Route path="project" element={<ProjectWork />}></Route>
         </Route>
       </Routes>
+      <OptionNavbar />
     </AnimatePresence>
   );
 };
