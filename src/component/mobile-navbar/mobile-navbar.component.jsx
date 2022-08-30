@@ -20,7 +20,7 @@ const MNavbar = () => {
       }
     >
       <div className={activateSidebar ? "visible" : "invisible"}>
-        <Link to="/">HOME</Link>
+        <Link to="/josue-project/">HOME</Link>
       </div>
       <div className={activateSidebar ? "visible" : "invisible"}>
         <Link to="/project">WORK</Link>

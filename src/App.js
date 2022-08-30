@@ -15,7 +15,7 @@ const App = () => {
     <AnimatePresence>
       <Routes location={location} key={location.pathname}>
         <Route path="/" element={<OptionNavbar />}>
-          <Route index element={<Home />} />
+          <Route path="josue-project/" element={<Home />} />
           <Route path="about/" element={<AboutMe />}>
             <Route index element={<WorkExperience />} />
             <Route path="skills" element={<Skills />} />
