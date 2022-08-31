@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/josue-project/static/css/main.350af14e.css",
+    "main.css": "/josue-project/static/css/main.3c4f7e68.css",
     "main.js": "/josue-project/static/js/main.88a7b529.js",
     "static/js/787.d6ebc525.chunk.js": "/josue-project/static/js/787.d6ebc525.chunk.js",
     "static/media/Profile.png": "/josue-project/static/media/Profile.2082037b29ef561f7545.png",
@@ -24,12 +24,12 @@
     "static/media/random.svg": "/josue-project/static/media/random.f4836e96b638f1bf85a1e79e8942e43d.svg",
     "static/media/icon-close.svg": "/josue-project/static/media/icon-close.3e88bd6e1dd859233d65f8222e8ccb74.svg",
     "static/media/icon-hamburger.svg": "/josue-project/static/media/icon-hamburger.f712939194a27a56f01fc841125b22d7.svg",
-    "main.350af14e.css.map": "/josue-project/static/css/main.350af14e.css.map",
+    "main.3c4f7e68.css.map": "/josue-project/static/css/main.3c4f7e68.css.map",
     "main.88a7b529.js.map": "/josue-project/static/js/main.88a7b529.js.map",
     "787.d6ebc525.chunk.js.map": "/josue-project/static/js/787.d6ebc525.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.350af14e.css",
+    "static/css/main.3c4f7e68.css",
     "static/js/main.88a7b529.js"
   ]
 }
