@@ -33,7 +33,7 @@
   display: none;
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 458px) {
   .mobile-container-disabled,
   .mobile-container-enable {
     display: flex;

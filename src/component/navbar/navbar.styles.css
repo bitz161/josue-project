@@ -19,7 +19,7 @@
   color: black;
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 458px) {
   .navbar-container {
     display: none;
   }

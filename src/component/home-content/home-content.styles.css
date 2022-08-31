@@ -107,7 +107,7 @@
 }
 
 /* Mobile */
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 458px) {
   .homecontent-container {
     display: flex;
     flex-direction: column;

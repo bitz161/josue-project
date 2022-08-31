@@ -16,7 +16,7 @@
   margin: 10px 0;
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 458px) {
   .education-container > div {
     font-size: 15px;
   }
